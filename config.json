@@ -1,7 +1,0 @@
-{
-  "model": "openai/gpt-4o-2024-08-06",
-  "setup_command": "powershell -c \"irm https://openclaw.ai/install.ps1 | iex\"",
-  "config_command": "openclaw config",
-  "persist_model": true,
-  "auto_config": true
-}
